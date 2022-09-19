@@ -1,4 +1,4 @@
-# Introduçao ao Typescript
+# CURSO DE TYPESCRIPT NA PRÁTICA
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
